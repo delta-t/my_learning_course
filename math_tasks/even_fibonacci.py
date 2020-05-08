@@ -19,4 +19,5 @@ def even_fibonacci(greatest=10000):
             yield digit
 
 
-print(list(even_fibonacci()))
+if __name__ == '__main__':
+    print(list(even_fibonacci()))
