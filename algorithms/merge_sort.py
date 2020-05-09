@@ -29,7 +29,7 @@ def merge(array_a: list, array_b: list) -> list:
     return array_c
 
 
-def merge_sort(array_a: list):
+def merge_sort(array_a: list) -> None:
     if len(array_a) <= 1:
         return
     middle = len(array_a) // 2
