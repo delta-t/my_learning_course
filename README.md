@@ -1,1 +1,1 @@
-"# my_learning_progress" 
+"# pythonic way" 
